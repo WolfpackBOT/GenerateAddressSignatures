@@ -1,7 +1,7 @@
 # GenerateAddressSignatures
 This program is used to generate signatures for registering your WOLF addresses for the snapshot.
 
-It is written in C# .Net Core, with publishing targets for Windows, MacOS, and Linux. These ready to use, compiled archives are located in the dist folder.
+It is written in C# .Net Core, with publishing targets for Windows, MacOS, and Linux. These ready to use, compiled archives are located in the dist folder. Currently, Windows is the only operating system tested. We will get the MacOS and Linux versions tested soon.
 
 ### Instructions
 1. Download the archive from the dist folder for your operating system.
