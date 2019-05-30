@@ -6,6 +6,16 @@ It is written in C# .Net Core, with publishing targets for Windows, MacOS, and L
 ### Downloads
 [GenerateAddressSignatures-win10-x64.zip - Windows](https://wolfpackbotdownloads.azureedge.net/wolfpackbotdownloadscontainer/tools/GenerateAddressSignatures-win10-x64.zip)
 
+### Requirements
+1. Make sure you have your wolfcoin.conf configured to allow RPC calls.
+
+rpcuser=A USERNAME THAT YOU SET<br/>
+rpcpassword=A STRONG PASSWORD<br/>
+listen=1<br/>
+server=1
+
+2. wolfcoin-cli.exe must be within your wallet's install directory.
+
 ### Instructions
 1. Download the archive for your operating system.
 2. Decompress the archive
