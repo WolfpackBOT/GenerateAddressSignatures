@@ -7,12 +7,13 @@ It is written in C# .Net Core, with publishing targets for Windows, MacOS, and L
 [GenerateAddressSignatures-win10-x64.zip - Windows](https://wolfpackbotdownloads.azureedge.net/wolfpackbotdownloadscontainer/tools/GenerateAddressSignatures-win10-x64.zip)
 
 ### Requirements
-1. Make sure you have your wolfcoin.conf configured to allow RPC calls.
+1. Make sure you have your wolfcoin.conf configured to allow RPC calls. If you have to modify the conf, you will need to restart your wallet after making the changes.
 
 rpcuser=A USERNAME THAT YOU SET<br/>
 rpcpassword=A STRONG PASSWORD<br/>
 listen=1<br/>
-server=1
+server=1<br/>
+daemon=1
 
 2. wolfcoin-cli.exe must be within your wallet's install directory.
 
