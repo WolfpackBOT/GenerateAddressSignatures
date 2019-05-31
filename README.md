@@ -22,6 +22,9 @@ daemon=1
 2. Decompress the archive
 3. Modify the parameters (see below) in run.bat (or run.sh depending on your operating system).
 4. Execute run.bat or run.sh
+5. Once the program completes, copy the contents of the generated file.
+6. On the website on the Snapshot page, click Claim Many WOLF Addresses.
+7. Paste the generated signatures into the textbox and click Claim.
 
 ### Run Parameters
 1. Absolute file path to the wolfcoin-cli file.
