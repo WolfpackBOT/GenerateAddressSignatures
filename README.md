@@ -6,7 +6,7 @@ It is written in C# .Net Core, with publishing targets for Windows, MacOS, and L
 ### Downloads
 [GenerateAddressSignatures-win10-x64.zip - Windows](https://wolfpackbotdownloads.azureedge.net/wolfpackbotdownloadscontainer/tools/GenerateAddressSignatures-win10-x64.zip)
 
-### Requirements
+### Prerequisites
 1. Make sure you have your wolfcoin.conf configured to allow RPC calls. If you have to modify the conf, you will need to restart your wallet after making the changes.
 
 To modify the config file, within the QT wallet menu, go to Tools >> Open Wallet Configuration file.
